@@ -1,0 +1,21 @@
+{
+   "email": "yash.com",
+   "password": "Pass@123",
+   "hospitalName": "Pune",
+   "hospitalUniqueId": "api@key",
+   "contact": 9090899800,
+   "ambulanceNumber": "MH12AB1334"
+}
+        {
+         "email": "Trimurthy.com",
+         "password": "Pass@123",
+         "hospitalName": "Pune",
+         "hospitalContact": 9090899800,
+         "hospitalUniqueId": "api@key"
+         }
+
+         {
+            "username": "yash.com",
+            "password": "Pass@123",
+             "hospitalUniqueId": "api@key"
+            }
