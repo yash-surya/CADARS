@@ -20,7 +20,7 @@ const DataFetcher = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get('http://yash1722.pythonanywhere.com/getCoordinates');
+        const response = await axios.get('https://yash1722.pythonanywhere.com/getCoordinates');
         setCoordinates(response.data);
         setLoading(false);
       } catch (error) {
