@@ -14,8 +14,10 @@ export class Home extends Component {
           <div className="content">
             <h1>Car Accident Detection and Reporting System</h1>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            Welcome to CADARS, the Car Accident Detection and Reporting System website. Our platform is dedicated to enhancing road safety by providing real-time updates on car accidents. When an accident is detected, our system automatically transmits the exact location to the nearest hospitals and emergency services, ensuring rapid medical response. On this website, you can find up-to-the-minute details of reported accidents, including time and location. CADARS aims to streamline emergency response, minimize injury severity, and save lives by ensuring timely intervention. Stay informed and stay safe with CADARS.
             </p>
+            
+            
             <div className="button">
               <button onClick={this.handleGetStartedClick} className="button">Get Started</button>
             </div>
