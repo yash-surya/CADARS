@@ -307,6 +307,14 @@ p {
   margin-top: 10px; /* Adjust the top margin as needed */
   margin-bottom: 10px; 
 }
+.content p{
+  font-size: 20px;
+  line-height: 1.5;
+  color: #000000; /* Adjust the color as needed */
+  text-align: justify; /* Adjust the text alignment as needed */
+  margin-top: 10px; /* Adjust the top margin as needed */
+  margin-bottom: 10px; 
+}
 
 
 button:hover {
